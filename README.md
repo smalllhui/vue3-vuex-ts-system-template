@@ -5,7 +5,7 @@
 ### 前端项目运行
 
 ```tex
-git clone https://github.com/smalllhui/vue3-vuex-ts-system-templeate.git
+git clone git@github.com:smalllhui/vue3-vuex-ts-system-template.git
 cd vue3-vuex-ts-system-template
 npm install
 npm run dev
@@ -14,7 +14,7 @@ npm run dev
 ### 后端服务器运行
 
 ```tex
-git clone https://github.com/smalllhui/server-test.git
+git clone git@github.com:smalllhui/server-test.git
 cd server-test
 npm install
 npm run dev
